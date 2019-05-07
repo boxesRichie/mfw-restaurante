@@ -111,7 +111,7 @@ body, html {
 }
 /* our story section */
 #our_story {
-    min_height:600px;
+    min-height:600px;
 }
 #our_story .row{
     margin-top:30px;
